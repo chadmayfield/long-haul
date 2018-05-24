@@ -2,7 +2,7 @@ title: PianoByCassie
 description: The Cassandria Barlow-Mayfield piano studio.
 
 url: https://pianobycassie.com   # with https protocl
-enforce_ssl: pianobycassie.com   # without any protocol
+enforce_ssl: www.pianobycassie.com   # without any protocol
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/

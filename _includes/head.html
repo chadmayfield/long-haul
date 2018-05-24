@@ -58,6 +58,11 @@
       <meta name="twitter:image:src" content="{{ '/assets/img/touring.jpg' | prepend: site.url }}">
     {% endif %}
 
+    <script type="text/javascript">
+    var host = "pianobycassie.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}" />
