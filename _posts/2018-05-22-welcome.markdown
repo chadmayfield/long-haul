@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2018-05-22
+---
+
+<p class="intro"><span class="dropcap">W</span>elcome to my new site! My name is Cassandria Barlow-Mayfield.  I'm a classical concert pianist with a bachelors and a masters degree in piano performance from the University of Utah (read more <a href="https://pianobycassie.com/about/">about me</a>).  I have been performing for more than 35 years and teaching piano for more than 25 years. I have always been very passionate about music.</p>
+
+The purpose of this site is to both educate and market my piano studio. I will begin posting every now and then about performance practice, practicing techniques, pieces that I am excited about, reviews of new pieces I find, and extra work and listening assignments that I'd like my students to complete, so check back often.
+
+If you're interested in hiring me as an adjudicator, performer, accompanist, or are interested in taking lessons, please see my <a href="https://pianobycassie.com/services/">services page</a>.  Otherwise if you'd like more information about me, my studio, or current enrollment, please <a href="https://pianobycassie.com/contact/">contact me</a>.

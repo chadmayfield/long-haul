@@ -1,13 +1,14 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: PianoByCassie
+description: The Cassandria Barlow-Mayfield piano studio.
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: "/long-haul"
+url: https://pianobycassie.com   # with https protocl
+enforce_ssl: www.pianobycassie.com   # without any protocol
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: kramdown
-highlighter: rouge
+#markdown: redcarpet
+#highlighter: rogue
 gems: [jekyll-paginate]
 paginate: 5
 
@@ -16,13 +17,16 @@ navigation:
    url: /index.html
  - title: About
    url: /about
+ - title: Services
+   url: /services
  - title: Contact
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+#   github: 
+   twitter: pianistinmotion
+   facebook: cassie.b.mayfield
+   instagram: cassmayfield
+   email: info@pianobycassie.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-79070913-2"
