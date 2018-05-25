@@ -22,5 +22,4 @@ title: Services
 
         <h2>Performer</h2>
         <p>I am a classical concert pianist trained to perform on stage as <a href="https://www.deseretnews.com/article/657456/Philharmonia-philharmonizes-magnificently-at-Assembly-Hall.html" target="_blank">a soloist</a> and as a collaborator. <a href="https://www.cityweekly.net/utah/midsummer-nightandrsquos-strings/Content?oid=2135390" target="_blank">Performing</a> is my true passion and as such I have a wide breadth of experience; from performing as a background musician (such as weddings and Christmas parties) to performing on large stages around the world (such as Abravanel Hall).</p>
-
 </div>
