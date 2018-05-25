@@ -7,14 +7,14 @@ title: Services
     <h1 class="pageTitle">Services</h1>
 
     <center>
-    <a href="#accompanist">Accompanist</a> | 
+    [Accompanist](#accompanist) | 
     <a href="#adjudicator">Adjudicator</a> | 
     <a href="#arrangements">Arrangements</a> | 
     <a href="#instructor">Instructor</a> | 
     <a href="#performer">Performer</a>
     </center>
 
-        <h2>Accompanist</h2><a name="#accompanist"> </a>
+        ## Accompanist
         <p>I am a professionally trained and experienced accompanist and am available to collaborate with; solo instruments, small or large instrumental ensembles (including chamber music or orchestras), solo vocalists, and small or large vocal ensembles (including choirs). I'm experienced and comfortable with sight reading and am willing to travel up to 100 miles.  <a href="https://pianobycassie.com/contact">Contact me</a> for rates.</p>
 
         <h2>Adjudicator</h2><a name="#adjudicator"> </a>
