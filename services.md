@@ -6,11 +6,13 @@ title: Services
 <div class="post">
     <h1 class="pageTitle">Services</h1>
 
+    <center>
     <a href="#accompanist">Accompanist</a> | 
     <a href="#adjudicator">Adjudicator</a> | 
     <a href="#arrangements">Arrangements</a> | 
     <a href="#instructor">Instructor</a> | 
     <a href="#performer">Performer</a>
+    </center>
 
         <h2>Accompanist</h2>
         <a name="#accompanist"></a>
