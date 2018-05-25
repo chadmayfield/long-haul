@@ -17,6 +17,8 @@ navigation:
    url: /index.html
  - title: About
    url: /about
+ - title: Repertoire
+   url: /repertoire
  - title: Services
    url: /services
  - title: Contact
