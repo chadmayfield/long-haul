@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About
-image: headshot.jpg
 ---
 
 <div class="post">
@@ -12,5 +11,7 @@ image: headshot.jpg
     <p>Cassandria enjoys teaching and believes music is a necessary part of a child’s development. She is a member of <a href="https://www.mtna.org/" target="_blank">MTNA</a> and <a href="http://www.utahmta.org/" target="_blank">UMTA</a> (Utah Music Teacher’s Association). Her students have taken prizes in local competitions, taken part in the Interlochen School of Music, Brigham Young University, and University of Utah summer programs, and earned music scholarships to Southern Utah University and Utah State University.</p>
 
     <p>Currently Cassandria has a piano studio in her home in Herriman, Utah. She works as an accompanist and performer part time as well. She enjoys reading, hiking, traveling, and spending time with her family. She is married and has six children.</p>
+
+<center><img src="{{ '/assets/img/headshot.jpg' | prepend: site.baseurl }}" alt="Cassandria Barlow-Mayfield"></center>
 
 </div>
