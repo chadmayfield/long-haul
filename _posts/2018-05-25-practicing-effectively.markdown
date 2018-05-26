@@ -20,7 +20,7 @@ date:   2018-05-25
 
 <p>For accuracy and note learning start with slow, forte practice with repetition. Ignore dynamics and do not use the pedal. I'll refer to this as 'forte practicing'. These details can be added in after the notes and rhythms are comfortable. You may need to learn the notes hands apart first then hands together. If there’s inaccuracy then you are practicing too fast!</p>
 
-'Slow to fast practice' is extremely valuable but don’t start this practice technique until comfort and accuracy is achieved at a very slow tempo. Use the metronome and count to do this correctly. Start at a slow tempo and once accurate raise the tempo on the metronome gradually.</p>
+<p>'Slow to fast practice' is extremely valuable but don’t start this practice technique until comfort and accuracy is achieved at a very slow tempo. Use the metronome and count to do this correctly. Start at a slow tempo and once accurate raise the tempo on the metronome gradually.</p>
 
 <p>Pay attention to articulation, dynamics, and fingering, as well as any musical directions. Look up the meanings if needed. Include these details in your repetition practice.</p>
 
