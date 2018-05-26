@@ -6,7 +6,7 @@ title: Services
 <div class="post">
     <h1 class="pageTitle">Services</h1>
 
-        <p>I am conveniently located in Herriman, Utah, centrally located between Salt Lake and Utah counties. I offer a wide range of musical services, some of which include:
+        <p>I am conveniently located in <a href="https://goo.gl/maps/VV1hunUD19K2" target="_blank">Herriman, Utah</a>, centrally located between Salt Lake and Utah counties. I offer a wide range of musical services, some of which include:
 
         <h2>Accompanist</h2>
         <p>I am a professionally trained and experienced accompanist and am available to collaborate with: solo instruments, small or large instrumental ensembles (including chamber music or orchestras), solo vocalists, and small or large vocal ensembles (including choirs). I'm experienced and comfortable with sight reading and am willing to travel up to 100+ miles.  <a href="https://pianobycassie.com/contact">Contact me</a> for rates.</p>
