@@ -2,8 +2,19 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="author" content="Chad Mayfield (chadmayfield.com)">
+    <meta name="description" content="pianobycassie.com is the home of the Cassandria Barlow-Mayfield piano studio, located in Herriman, Utah. Services include professionally trained and classically educated piano performance, adjudication, accompaniment, and piano instruction for all ages and skill levels, specializing in intermediate to advanced students.">
+    <meta name="keywords" content="Cassandria Barlow-Mayfield, Cassandria Barlow, Cassandria Mayfield, Cassie Barlow-Mayfield, Cassie Barlow, Cassie Mayfield, concert pianist, classical concert pianist, Piano by Cassie, pianobycassie, pianobycassie.com, piano, Steinway & Sons, Herriman Piano, Herriman Utah Piano, Herriman Piano Lessons, Herriman Utah Piano Lessons, Piano Forte, Piano Lessons, Piano Teacher, Piano Performance, Piano Judge, Piano Adjudicator">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="7 days">
+
     <title>{{ page.title }}</title>
+
+    <script type="text/javascript">
+    var host = "pianobycassie.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
 
     <!-- Open Graph Meta -->
     <meta content="{{ site.title }}" property="og:site_name">
@@ -57,12 +68,6 @@
     {% else %}
       <meta name="twitter:image:src" content="{{ '/assets/img/touring.jpg' | prepend: site.url }}">
     {% endif %}
-
-    <script type="text/javascript">
-    var host = "pianobycassie.com";
-    if ((host == window.location.host) && (window.location.protocol != "https:"))
-        window.location.protocol = "https";
-    </script>
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}" />

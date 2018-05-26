@@ -15,8 +15,8 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
+ - title: Bio
+   url: /bio
  - title: Repertoire
    url: /repertoire
  - title: Services
