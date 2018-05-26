@@ -13,7 +13,6 @@ date:   2018-05-25
 <p>Your assigned piece may be ‘put together’ in the sense that it’s in the correct order, but it will need attention and focus on many small areas to create a ‘finished picture’.</p>
 
 <h4>What is the best way to focus on small areas?</h4>
-<br />
 
 <p>Start by numbering starting spots or phrase numbers with the help of your teacher. These create great areas of focus, help with memorization, but most of all can help you visualize the function of the phrase as a ‘musical sentence’ within the piece.</p>
 
