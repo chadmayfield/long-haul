@@ -9,7 +9,7 @@ title: Contact Me
       <p class="intro">Please contact me with any questions.</p>
       <p>If you have any questions regarding performing, lessons, schedules, pricing, (or anything else) please contact us. I'll respond as soon as possible.</p>
   </div>
-  <form action="http://formspree.io/info@pianobycassie.com" method="POST">
+  <form action="https://formspree.io/info@pianobycassie.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
