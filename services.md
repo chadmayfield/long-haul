@@ -9,7 +9,7 @@ title: Services
         <p>I am conveniently located in <a href="https://goo.gl/maps/VV1hunUD19K2" target="_blank">Herriman, Utah</a>, centrally located between Salt Lake and Utah counties. I offer a wide range of musical services, some of which include:
 
         <h2>Accompanist</h2>
-        <p>I am a professionally trained and experienced accompanist and am available to collaborate with: 
+        <p>I am a professionally trained and experienced accompanist and am available to collaborate with:</p> 
             <ul>
                 <li>Solo instruments</li>
                 <li>Small or large instrumental ensembles (including chamber music or orchestras)</li>
@@ -17,7 +17,7 @@ title: Services
                 <li>Small or large vocal ensembles (including choirs)</li>
             </ul>
         
-         I'm experienced and comfortable with sight reading and am willing to travel up to 100+ miles.  <a href="https://pianobycassie.com/contact">Contact me</a> for rates.</p>
+         <p>I'm experienced and comfortable with sight reading and am willing to travel up to 100+ miles.  <a href="https://pianobycassie.com/contact">Contact me</a> for rates.</p>
 
         <h2>Adjudicator</h2>
         <p>Consider my services for adjudicating your competition or evaluation. I have experience in judging soloists and groups. I'm willing to travel up to 100+ miles.</p>
