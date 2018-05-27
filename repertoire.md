@@ -6,10 +6,12 @@ title: Répertoire
 <div class="post">
 	<h1 class="pageTitle">Répertoire</h1>
 
-<blockquote>"After silence, that which comes nearest to expressing the inexpressible is music."<br />
--- Aldous Huxley</blockquote>
+<center>
+	<blockquote>"After silence, that which comes nearest to expressing the inexpressible is music." (Aldous Huxley)</blockquote>
+</center>
 
-<h2>Solo Works</h2>
+<h2><u>Solo Works</u></h2>
+<br />
 
 <h3>Bach, Johann Sebastian</h3>
 <ul>
@@ -39,7 +41,7 @@ title: Répertoire
 	<li></li>
 </ul>
 
-<h2>Concerti</h2>
+<h2><u>Concerti</u></h2>
 
 <!--
 <h3></h3>
