@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Repertoire
+title: Répertoire
 ---
 
 <div class="post">
-	<h1 class="pageTitle">Repertoire</h1>
+	<h1 class="pageTitle">Répertoire</h1>
 
 <p>Coming soon...</p>
 
