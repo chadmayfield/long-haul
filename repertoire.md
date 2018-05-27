@@ -7,7 +7,7 @@ title: Répertoire
 	<h1 class="pageTitle">Répertoire</h1>
 
 <center>
-	<blockquote>"After silence, that which comes nearest to expressing the inexpressible is music." (Aldous Huxley)</blockquote>
+	<blockquote><i>"After silence, that which comes nearest to expressing the inexpressible is music." (Aldous Huxley)</i></blockquote>
 </center>
 
 <h2><u>Solo Works</u></h2>
@@ -38,7 +38,6 @@ title: Répertoire
 	<li>Scherzo No. 3 in C Sharp Minor, Op. 39</li>
 	<li>Nocturne Op. 9, No. 2 in E Flat</li>
 	<li>Nocturne Op. 62, No. 1 in B Major</li>
-	<li></li>
 </ul>
 
 <h2><u>Concerti</u></h2>
