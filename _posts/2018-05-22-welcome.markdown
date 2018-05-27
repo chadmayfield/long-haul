@@ -10,4 +10,13 @@ date:   2018-05-22
 
 <p>The purpose of this site is to both educate and market my piano studio. I will begin posting every now and then about performance practice, practicing techniques, pieces that I am excited about, reviews of new pieces I find, and extra work and listening assignments that I'd like my students to complete, so check back often.</p>
 
+<figure>
+    <center>
+    <img src="{{ '/assets/img/rijksmuseum_2018.jpg' | prepend: site.baseurl }}" alt="Cassandria Barlow-Mayfield in Rijksmuseum, Amsterdam, Netherlands, 2018">
+    <figcaption>Rijksmuseum, Amsterdam, The Netherlands, 2018</figcaption>
+    </center>
+</figure>
+
 <p>If you're interested in hiring me as an adjudicator, performer, accompanist, or are interested in taking lessons, please see my <a href="https://pianobycassie.com/services/">services page</a>.  Otherwise if you'd like more information about me, my studio, or current enrollment, please <a href="https://pianobycassie.com/contact/">contact me</a>.</p>
+
+
