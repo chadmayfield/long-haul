@@ -23,7 +23,7 @@ title: Bio
 <figure>
     <center>
     <img src="{{ '/assets/img/belgium_2018.jpg' | prepend: site.baseurl }}" alt="Cassandria Barlow-Mayfield in Belgium, 2018">
-    <figcaption>Belgium, 2018</figcaption>
+    <figcaption>Ghent, Belgium, 2018</figcaption>
     </center>
 </figure>
 
