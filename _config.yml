@@ -15,14 +15,14 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: Bio
-   url: /bio
- - title: Philosophy
-   url: /philosophy
- - title: Répertoire
-   url: /repertoire
  - title: Services
    url: /services
+ - title: Philosophy
+   url: /philosophy
+ - title: Bio
+   url: /bio
+ - title: Répertoire
+   url: /repertoire
  - title: Testimonials
    url: /testimonials
  - title: Contact
