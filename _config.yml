@@ -17,10 +17,14 @@ navigation:
    url: /index.html
  - title: Bio
    url: /bio
+ - title: Philosophy
+   url: /bio
  - title: Repertoire
    url: /repertoire
  - title: Services
    url: /services
+ - title: Testimonials
+   url: /testimonials
  - title: Contact
    url: /contact
 

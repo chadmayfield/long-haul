@@ -4,7 +4,7 @@ title: Repertoire
 ---
 
 <div class="post">
-	<h1 class="pageTitle">Repertoire</h1>
+	<h1 class="pageTitle">Philosophy</h1>
 
 <p>Coming soon...</a>
 
