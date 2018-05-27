@@ -12,7 +12,7 @@ title: Bio
 
     <p>Cassandria Barlow-Mayfield’s performing has been described as poised, controlled and communicative. Cassandria received her Bachelor’s degree in 1998 and Master’s degree in 2003 both in Music with an emphasis in Piano Performance from the University of Utah under the direction of <a href="https://en.wikipedia.org/wiki/Bonnie_Gritton" target="_blank">Dr. Bonnie Gritton</a>.</p>
     
-    <p>In 1993 Cassandria performed on tour in Frankfurt and Lake Constanz, Germany; in Geneva, Switzerland; and at the Kibbutz Hagoshrim in Isreal.  In 1997 she performed throughout Warsaw and studied with Madam Smedyanka at the <a href="http://www.chopin.edu.pl/en/" target="_blank">Chopin Academy of Music</a>.  In 1998 she toured in Austria and Hungry, performing in Salzburg, Vienna, and Budapest and in Hungary's Esterhazy Palace. Cassandria is the recipient of many top awards in local and national piano competitions. She has been a guest soloist with local and university orchestras and was the guest soloist with the <a href="http://www.utahsymphony.org/" target="_blank">Utah Symphony</a> in their <a href="https://www.deseretnews.com/article/712325/Pianists-symphony-debut-superb-flawless.com" target="_blank">1999 Summer Concert Series</a>.</p>
+    <p>In 1993 Cassandria performed on tour in Frankfurt and Lake Constanz, Germany; in Geneva, Switzerland; and at the Kibbutz Hagoshrim in Isreal.  In 1997 she performed throughout Warsaw and studied with Madam Smedyanka at the <a href="http://www.chopin.edu.pl/en/" target="_blank">Chopin Academy of Music</a>.  In 1998 she toured in Austria and Hungary, performing in Salzburg, Vienna, and Budapest and in Hungary's Esterhazy Palace. Cassandria is the recipient of many top awards in local and national piano competitions. She has been a guest soloist with local and university orchestras and was the guest soloist with the <a href="http://www.utahsymphony.org/" target="_blank">Utah Symphony</a> in their <a href="https://www.deseretnews.com/article/712325/Pianists-symphony-debut-superb-flawless.com" target="_blank">1999 Summer Concert Series</a>.</p>
     
     <p>As a graduate student and beyond, in the early 2000s, she was a faculty member of the Univeristy of Utah Preparatory Division teaching private lessons as well as group <a href="https://www.kindermusik.com/" target="_blank">kindermusik</a> classes. From 2011 to 2014, Cassandria was employed as the <a href="http://slschoir.com/" target="_blank">Salt Lake Symphonic Choir</a> accompanist and featured as a soloist in several performances.</p>
 
@@ -20,8 +20,11 @@ title: Bio
 
     <p>Currently Cassandria has a piano studio in her home in Herriman, Utah. She works as an accompanist and performer part time as well. She enjoys reading, hiking, traveling, and spending time with her family. She is married and has six children. You can connect with her on <a href="https://twitter.com/pianistinmotion" target="_blank">Twitter</a>, <a href="https://www.facebook.com/cassie.b.mayfield">Facebook</a>, or professionally on <a href="https://www.linkedin.com/in/cassandriamayfield/">LinkedIn</a>.</p>
 
-<center>
-<img src="{{ '/assets/img/belgium_2018.jpg' | prepend: site.baseurl }}" alt="Cassandria Barlow-Mayfield in Belgium, 2018">
-</center>
+<figure>
+    <center>
+    <img src="{{ '/assets/img/belgium_2018.jpg' | prepend: site.baseurl }}" alt="Cassandria Barlow-Mayfield in Belgium, 2018">
+    <figcaption>Belgium, 2018</figcaption>
+    </center>
+</figure>
 
 </div>

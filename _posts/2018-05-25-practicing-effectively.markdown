@@ -2,11 +2,10 @@
 layout: post
 title:  "Practicing Effectively"
 date:   2018-05-25
+image: puzzle_music.jpg
 ---
 
 <p class="intro"><span class="dropcap">W</span>hat is the most effective way to practice a challenging passage or begin learning a new piece?</p>
-
-<center><img src="{{ '/assets/img/puzzle_music.jpg' | prepend: site.baseurl }}" alt="Puzzle pieces on music"></center>
 
 <p>Think of your piece as a big puzzle, when you dump it out of the box is it already put together? Of course not. Do you focus on one area first? Perhaps you focus on the edges first, or the red puzzle pieces that create the brightly colored tree in the picture.</p>
 
