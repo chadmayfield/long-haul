@@ -42,7 +42,11 @@ title: Services
             <li>Competitions and evaluations are encouraged, but not required.</li>
             <li>Ownership of an acoustic piano that is in good repair and tuning is very highly recommended.</li>
         </ul>
-        
+
+        <center>
+        <img src="{{ '/assets/img/20100925_libby_quilts_concerts_duet.jpg' | prepend: site.baseurl }}" alt=""> 
+        </center>
+
         <p>As of June 2018, my studio is full, but I'm always interested in meeting and listening to potential students and have a waiting list. <a href="https://pianobycassie.com/contact">Contact me</a> to schedule an audition.</p>
 
         <h2>Performer</h2>
@@ -51,6 +55,6 @@ title: Services
         <figure>
             <center>
 	        <img src="{{ '/assets/img/20100925_libby_quilts_concerts_duet.jpg' | prepend: site.baseurl }}" alt=""> 
-	        <figcaption>Cassandria and Barb Gill, performing a dazzling duet of Wizard of Oz Fantasy for 'Quilts & Concert's charity event, Libby Gardner Concert Hall, Salt Lake City, Utah.</figcaption>
+	        <figcaption>Cassandria and Barbara Gill, performing a dazzling duet of Wizard of Oz Fantasy for 'Quilts & Concert's charity event, Libby Gardner Concert Hall, Salt Lake City, Utah.</figcaption>
             </center>
         </figure>
