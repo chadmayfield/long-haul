@@ -61,13 +61,7 @@ title: Répertoire
 <ul>
     <li>Grandes études de Paganini, S. 141, No. 6 in A Minor</li>
 </ul>
-<!--
-<h4>Mendelssohn, Felix (1809-1847)</h4>
-<ul>
-    <li></li>
-	<li></li>
-</ul>
--->
+
 <h4>Mussorgsky, Modest Petrovich <i><span style="color:#e6e6e6">(1839-1881)</span></i></h4>
 <ul>
     <li>Pictures at an Exhibition</li>
@@ -87,9 +81,9 @@ title: Répertoire
 
 <h4>Scarlatti, Domenico <i><span style="color:#e6e6e6">(1685-1757)</span></i></h4>
 <ul>
-    <li>Sonata in E Major Kk.380</li>
     <li>Sonata in B Minor Kk.197</li>
-    <li></li>
+    <li>Sonata in E Major Kk.380</li>
+    <li>Sonata in E Major K.531</li>
 </ul>
 
 <h4>Schubert, Franz <i><span style="color:#e6e6e6">(1979-1828)</span></i></h4>
