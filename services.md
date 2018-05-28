@@ -44,7 +44,7 @@ title: Services
         </ul>
 
         <center>
-        <img src="{{ '/assets/img/20100925_libby_quilts_concerts_duet.jpg' | prepend: site.baseurl }}" alt=""> 
+        <img src="{{ '/assets/img/instruction_2015.jpg' | prepend: site.baseurl }}" alt=""> 
         </center>
 
         <p>As of June 2018, my studio is full, but I'm always interested in meeting and listening to potential students and have a waiting list. <a href="https://pianobycassie.com/contact">Contact me</a> to schedule an audition.</p>
@@ -55,6 +55,6 @@ title: Services
         <figure>
             <center>
 	        <img src="{{ '/assets/img/20100925_libby_quilts_concerts_duet.jpg' | prepend: site.baseurl }}" alt=""> 
-	        <figcaption>Cassandria and Barbara Gill performing a dazzling duet of Wizard of Oz Fantasy,<br />'Quilts & Concert's charity event<br />Libby Gardner Concert Hall, Salt Lake City, Utah.<br />(2010)</figcaption>
+	        <figcaption>Cassandria and Barbara Gill performing a dazzling duet of Wizard of Oz Fantasy,<br />'Quilts & Concert's' charity event<br />Libby Gardner Concert Hall, Salt Lake City, Utah.<br />(2010)</figcaption>
             </center>
         </figure>
