@@ -13,14 +13,14 @@ title: Répertoire
 <h2><u>Solo Works</u></h2>
 <br />
 
-<h3>Bach, Johann Sebastian</h3>
+<h3>Bach, Johann Sebastian (1685-1770)</h3>
 <ul>
     <li>Partita No. 2 in C Minor, BWV 826</li>
     <li>Prelude and Fugue in D Major, No. V</li>
     <li>Prelude and Fugue in B-Flat Major, No. XXI</li>
 </ul>
 
-<h3>Beethoven, Ludwig van</h3>
+<h3>Beethoven, Ludwig van (1770-1827)</h3>
 <ul>
     <li>Piano Sonata No. 18 in E-Flat Major, Op. 31, No. 3</li>
 	<li>Piano Sonata No. 1 in F Minor, Op. 2, No. 1</li>
@@ -28,7 +28,13 @@ title: Répertoire
 	<li>Piano Sonata No. 8 in C Minor, Op. 13, "Pathetique"</li>
 </ul>
 
-<h3>Chopin, Frédéric François</h3>
+<h3>Brahms, Johannes (1833-1897)</h3>
+<ul>
+    <li>Intermezzo</li>
+	<li>Phapsody</li>
+</ul>
+
+<h3>Chopin, Frédéric François (1810-1849)</h3>
 <ul>
     <li>Etude, Op. 10, No. 9 in F Minor</li>
 	<li>Etude, Op. 25, No. 6 in G-Sharp Minor "Thirds"</li>
@@ -40,7 +46,47 @@ title: Répertoire
 	<li>Nocturne Op. 62, No. 1 in B Major</li>
 </ul>
 
+<h3>Copland, Aaron (1900-1990)</h3>
+<ul>
+    <li>The Cat and the Mouse</li>
+	<li>Passacaglia</li>
+</ul>
+
+<h3>Gershwin, George Jacob (1898-1937)</h3>
+<ul>
+    <li>Three Piano Preludes</li>
+</ul>
+
+<h3>Liszt, Franz (1811-1886)</h3>
+<ul>
+    <li></li>
+</ul>
+
+<h3>Mendelssohn, Felix (1809-1847)</h3>
+<ul>
+    <li></li>
+	<li></li>
+</ul>
+
+<h3>Mussorgsky, Modest Petrovich (1839-1881)</h3>
+<ul>
+    <li>Pictures at an Exhibibition</li>
+</ul>
+
+<h3>Rachmaninoff, Sergei Vasilyevich (1873-1943)</h3>
+<ul>
+    <li></li>
+	<li></li>
+	<li></li>
+</ul>
+
+<h3>Ravel, Maurice (1875-1937)</h3>
+<ul>
+    <li>Miroirs</li>
+</ul>
+
 <h2><u>Concerti</u></h2>
+<br />
 
 <!--
 <h3></h3>
