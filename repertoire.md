@@ -97,10 +97,11 @@ title: Répertoire
     <li>Impromptu, D.899, Op. 90, No. 2</li>
 </ul>
 
+<br />
 <h2><u>Concerti</u></h2>
 <br />
 
-<h4>Beethoven, Ludwig van <i><span style="color:#cccccc">(1770-1827)<</span></i>/h4>
+<h4>Beethoven, Ludwig van <i><span style="color:#cccccc">(1770-1827)</span></i></h4>
 <ul>
     <li>Piano Concerto No. 5 in E-Flat Major, Op. 73 "Emporer"</li>
 </ul>
