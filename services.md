@@ -19,6 +19,13 @@ title: Services
         
          <p>I'm experienced and comfortable with sight reading and am willing to travel up to 100+ miles.  <a href="https://pianobycassie.com/contact">Contact me</a> for rates.</p>
 
+        <figure>
+            <center>
+	        <img src="{{ '/assets/img/20111203_assembly_hall.jpg' | prepend: site.baseurl }}" alt=""> 
+	        <figcaption>Cassandria accompanying the Salt Lake Symphonic Choir in December 2011 at Assembly Hall, Temple Square, Salt Lake City, Utah</figcaption>
+            </center>
+        </figure>
+
         <h2>Adjudicator</h2>
         <p>Consider my services for adjudicating your competition or evaluation. I have experience in judging soloists and groups. I'm willing to travel up to 100+ miles.</p>
 
@@ -40,3 +47,10 @@ title: Services
 
         <h2>Performer</h2>
         <p>I am a classical concert pianist trained to perform on stage as <a href="https://www.deseretnews.com/article/657456/Philharmonia-philharmonizes-magnificently-at-Assembly-Hall.html" target="_blank">a soloist</a> and as a collaborator. <a href="https://www.cityweekly.net/utah/midsummer-nightandrsquos-strings/Content?oid=2135390" target="_blank">Performing</a> is my true passion and as such I have a wide breadth of experience; from performing as a background musician (such as weddings and Christmas parties) to performing on large stages around the world (such as <a href="https://www.deseretnews.com/article/712325/Pianists-symphony-debut-superb-flawless.com" target="_target">Abravanel Hall</a>).</p>
+
+        <figure>
+            <center>
+	        <img src="{{ '/assets/img/20100925_libby_quilts_concerts_duet.jpg' | prepend: site.baseurl }}" alt=""> 
+	        <figcaption>Cassandria and Barb Gill, performing a dazzling duet of Wizard of Oz Fantasy for 'Quilts & Concert's charity event, Libby Gardner Concert Hall, Salt Lake City, Utah.</figcaption>
+            </center>
+        </figure>
