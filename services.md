@@ -22,7 +22,7 @@ title: Services
         <figure>
             <center>
 	        <img src="{{ '/assets/img/20111203_assembly_hall.jpg' | prepend: site.baseurl }}" alt=""> 
-	        <figcaption>Cassandria accompanying the Salt Lake Symphonic Choir in December 2011 at Assembly Hall, Temple Square, Salt Lake City, Utah</figcaption>
+	        <figcaption>Cassandria accompanying the Salt Lake Symphonic Choir<br />Assembly Hall, Temple Square, Salt Lake City, Utah.<br />(December 2011)</figcaption>
             </center>
         </figure>
 
@@ -55,6 +55,6 @@ title: Services
         <figure>
             <center>
 	        <img src="{{ '/assets/img/20100925_libby_quilts_concerts_duet.jpg' | prepend: site.baseurl }}" alt=""> 
-	        <figcaption>Cassandria and Barbara Gill, performing a dazzling duet of Wizard of Oz Fantasy for 'Quilts & Concert's charity event, Libby Gardner Concert Hall, Salt Lake City, Utah.</figcaption>
+	        <figcaption>Cassandria and Barbara Gill performing a dazzling duet of Wizard of Oz Fantasy,<br />'Quilts & Concert's charity event<br />Libby Gardner Concert Hall, Salt Lake City, Utah.<br />(2010)</figcaption>
             </center>
         </figure>

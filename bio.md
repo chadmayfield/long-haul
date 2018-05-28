@@ -17,7 +17,7 @@ title: Bio
     <figure>
         <center>
 	    <img src="{{ '/assets/img/20100925_libby_quilts_concerts_solo.jpg' | prepend: site.baseurl }}" alt=""> 
-	    <figcaption>Cassandria performing at the 'Quilts & Concerts' charity event benefiting the U of U Transplant Buddy Foundation, 2010, Libby Gardner Concert Hall, Salt Lake City, Utah.</figcaption>
+	    <figcaption>Cassandria performing at 'Quilts & Concerts' charity event<br /> benefiting the U of U Transplant Buddy Foundation<br />Libby Gardner Concert Hall, Salt Lake City, Utah. (2010)</figcaption>
         </center>
     </figure>
     
@@ -30,7 +30,7 @@ title: Bio
     <figure>
         <center>
         <img src="{{ '/assets/img/belgium_2018.jpg' | prepend: site.baseurl }}" alt="Cassandria Barlow-Mayfield in Belgium, 2018">
-        <figcaption>Ghent, Belgium, 2018</figcaption>
+        <figcaption>Ghent, Belgium<br />2018</figcaption>
         </center>
     </figure>
 
