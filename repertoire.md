@@ -31,7 +31,7 @@ title: Répertoire
 <h4>Brahms, Johannes <i><span style="color:#e6e6e6">(1833-1897)</span></i></h4>
 <ul>
     <li>Intermezzo Op. 118, No. 2 in A Major</li>
-	<li>Rhapsody Op. 119, No. 4 in E Flat Major</li>
+	<li>Rhapsody Op. 119, No. 4 in E-Flat Major</li>
 </ul>
 
 <h4>Chopin, Frédéric <i><span style="color:#e6e6e6">(1810-1849)</span></i></h4>
@@ -52,7 +52,7 @@ title: Répertoire
 	<li>Passacaglia</li>
 </ul>
 
-<h4>Gershwin, George Jacob <i><span style="color:#e6e6e6">(1898-1937)</span></i></h4>
+<h4>Gershwin, George <i><span style="color:#e6e6e6">(1898-1937)</span></i></h4>
 <ul>
     <li>Three Piano Preludes</li>
 </ul>
@@ -70,7 +70,7 @@ title: Répertoire
 -->
 <h4>Mussorgsky, Modest Petrovich <i><span style="color:#e6e6e6">(1839-1881)</span></i></h4>
 <ul>
-    <li>Pictures at an Exhibibition</li>
+    <li>Pictures at an Exhibition</li>
 </ul>
 
 <h4>Rachmaninoff, Sergei <i><span style="color:#e6e6e6">(1873-1943)</span></i></h4>
@@ -88,7 +88,7 @@ title: Répertoire
 <h4>Scarlatti, Domenico <i><span style="color:#e6e6e6">(1685-1757)</span></i></h4>
 <ul>
     <li>Sonata in E Major Kk.380</li>
-    <li>SOnata in B Minor Kk.197</li>
+    <li>Sonata in B Minor Kk.197</li>
     <li></li>
 </ul>
 

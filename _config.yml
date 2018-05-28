@@ -23,8 +23,8 @@ navigation:
    url: /bio
  - title: Répertoire
    url: /repertoire
- - title: Testimonials
-   url: /testimonials
+ #- title: Testimonials
+ #  url: /testimonials
  - title: Contact
    url: /contact
 
