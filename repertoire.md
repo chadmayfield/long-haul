@@ -11,6 +11,7 @@ title: Répertoire
 </center>
 
 <h3><u>Solo Works</u></h3>
+<br />
 
 <h4>Bach, Johann Sebastian <i><span style="color:#cccccc">(1685-1770)</span></i></h4>
 <ul>
@@ -97,6 +98,7 @@ title: Répertoire
 </ul>
 
 <h2><u>Concerti</u></h2>
+<br />
 
 <h4>Beethoven, Ludwig van <i><span style="color:#cccccc">(1770-1827)<</span></i>/h4>
 <ul>
