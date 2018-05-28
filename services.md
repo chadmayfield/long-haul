@@ -22,7 +22,7 @@ title: Services
         <figure>
             <center>
 	        <img src="{{ '/assets/img/20111203_assembly_hall.jpg' | prepend: site.baseurl }}" alt=""> 
-	        <figcaption>Cassandria accompanying the Salt Lake Symphonic Choir<br />Assembly Hall, Temple Square, Salt Lake City, Utah.<br />(December 2011)</figcaption>
+	        <figcaption>Cassandria accompanying the Salt Lake Symphonic Choir<br />Assembly Hall, Temple Square, Salt Lake City, Utah.<br />(12/2011)</figcaption>
             </center>
         </figure>
 
@@ -43,11 +43,14 @@ title: Services
             <li>Ownership of an acoustic piano that is in good repair and tuning is very highly recommended.</li>
         </ul>
 
-        <center>
-        <img src="{{ '/assets/img/instruction_2015.jpg' | prepend: site.baseurl }}" alt=""> 
-        </center>
-
         <p>As of June 2018, my studio is full, but I'm always interested in meeting and listening to potential students and have a waiting list. <a href="https://pianobycassie.com/contact">Contact me</a> to schedule an audition.</p>
+
+        <figure>
+            <center>
+            <img src="{{ '/assets/img/instruction_2015.jpg' | prepend: site.baseurl }}" alt="">
+            <figcaption>Student Recital<br />(2015)</figcaption>
+            </center>
+        </figure>
 
         <h2>Performer</h2>
         <p>I am a classical concert pianist trained to perform on stage as <a href="https://www.deseretnews.com/article/657456/Philharmonia-philharmonizes-magnificently-at-Assembly-Hall.html" target="_blank">a soloist</a> and as a collaborator. <a href="https://www.cityweekly.net/utah/midsummer-nightandrsquos-strings/Content?oid=2135390" target="_blank">Performing</a> is my true passion and as such I have a wide breadth of experience; from performing as a background musician (such as weddings and Christmas parties) to performing on large stages around the world (such as <a href="https://www.deseretnews.com/article/712325/Pianists-symphony-debut-superb-flawless.com" target="_target">Abravanel Hall</a>).</p>
