@@ -43,7 +43,7 @@ title: Services
             <li>Ownership of an acoustic piano that is in good repair and tuning is very highly recommended.</li>
         </ul>
 
-        <p>As of June 2018, my studio is full, but I'm always interested in meeting and listening to potential students and have a waiting list. <a href="https://pianobycassie.com/contact">Contact me</a> to schedule an audition.</p>
+        <p><a href="https://pianobycassie.com/contact">Contact me</a> to schedule an audition.</p>
 
         <figure>
             <center>
